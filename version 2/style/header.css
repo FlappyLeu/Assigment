@@ -12,12 +12,11 @@
 .nav-link:hover {
   color: #e6cec1 !important;
 }
-.col-logo {
-  margin-top: 2% !important;
-}
 .col-logo img {
   width: 25px;
   height: 25px;
+}
+.col-logo {
 }
 .col-logo a {
   padding-left: 3% !important;
