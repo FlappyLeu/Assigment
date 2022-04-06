@@ -1,0 +1,38 @@
+/* Mobile version */
+
+/* Mobile version's header section */
+
+.col-toggler a {
+  color: #f17228;
+  text-transform: uppercase !important;
+  font-size: 10px;
+  transition: all 0.3s ease 0s !important;
+}
+.nav-link:focus,
+.nav-link:hover {
+  color: #e6cec1 !important;
+}
+.col-logo {
+  margin-top: 2% !important;
+}
+.col-logo img {
+  width: 25px;
+  height: 25px;
+}
+.col-logo a {
+  padding-left: 3% !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: #f17228 !important;
+  text-decoration: none !important;
+}
+.navbar-toggler:focus {
+  box-shadow: none !important;
+}
+.col-login-bar {
+  text-align: center !important;
+}
+.col-login-bar img {
+  padding: 6%;
+}
+/* Mobile version's header section end here */
