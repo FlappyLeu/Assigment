@@ -53,6 +53,9 @@ del {
 .box-sale p {
   color: #f17228;
 }
+.col-menu {
+  flex-grow: 0;
+}
 .box-sale img {
   width: 140px;
   height: 120px;

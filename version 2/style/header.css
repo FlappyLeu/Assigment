@@ -12,11 +12,11 @@
 .nav-link:hover {
   color: #e6cec1 !important;
 }
-.col-logo img {
+.head-logo img {
   width: 25px;
   height: 25px;
 }
-.col-logo a {
+.head-logo a {
   padding-left: 3% !important;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
@@ -26,10 +26,10 @@
 .navbar-toggler:focus {
   box-shadow: none !important;
 }
-.col-login-bar {
+.head-login-bar {
   text-align: center !important;
 }
-.col-login-bar img {
+.head-login-bar img {
   padding: 6%;
 }
 /* Mobile version's header section end here */
